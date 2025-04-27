@@ -106,3 +106,7 @@ All charts support:
 - AWS (2024), Gartner (2024), Yurbi (2023), Transcenda (2022)
 
 ---
+
+## Project Poster
+
+![Project Poster](poster.png)
