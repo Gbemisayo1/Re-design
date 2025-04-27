@@ -60,10 +60,10 @@ All charts support:
 
 ## Navigation Instructions
 
-- **`301_Gbemisayo_Adelaja_report_final.pdf`** – Full written explanation of critique, theory, redesign and research  
+- **`301_Adelaja_Gbemisayo_report_final.pdf`** – Full written explanation of critique, theory, redesign and research  
 - **`Infovis redesign updated.ipynb`** – Open in Jupyter or Colab to view/edit the Python visualizations  
 - **`cooling_degree_days_2014_2024.xlsx`** – Data file used in the redesign  
-- **`301_Gbemisayo_Adelaja_poster_final.pdf`** – Summary poster suitable for presentation with all visualizations included  
+- **`301_Adelaja_Gbemisayo_poster_final.pdf`** – Summary poster suitable for presentation with all visualizations included  
 
 ---
 ## Sustainable development goal 
